@@ -1,0 +1,221 @@
+{
+  "userName": "rob",
+  "permissionMode": "normal",
+  "model": "gpt-5.5",
+  "thinkingBudget": "off",
+  "effortLevel": "high",
+  "serviceTier": "default",
+  "enableAutoTitleGeneration": true,
+  "titleGenerationModel": "",
+  "excludedTags": [],
+  "excludedFolders": [],
+  "mediaFolder": "",
+  "systemPrompt": "",
+  "persistentExternalContextPaths": [],
+  "contextEngine": {
+    "vaultSearchEnabled": true,
+    "vaultSearchMaxResults": 8,
+    "vaultSearchMaxSnippetChars": 700,
+    "relevantNotesEnabled": true,
+    "relevantNotesMaxResults": 6,
+    "projectWorkspaces": [],
+    "activeProjectWorkspaceId": ""
+  },
+  "sharedEnvironmentVariables": "",
+  "envSnippets": [],
+  "customContextLimits": {},
+  "customModelAliases": {},
+  "keyboardNavigation": {
+    "scrollUpKey": "w",
+    "scrollDownKey": "s",
+    "focusInputKey": "i"
+  },
+  "requireCommandOrControlEnterToSend": false,
+  "advancedSectionsOpen": {},
+  "usageIndicatorsEnabled": true,
+  "debugLoggingEnabled": false,
+  "runAbsoluteTimeoutMinutes": 30,
+  "sessionIdleTimeoutMinutes": 30,
+  "locale": "en",
+  "providerConfigs": {
+    "codex": {
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "customModels": "",
+      "discoveredModels": [],
+      "enabled": true,
+      "environmentHash": "",
+      "environmentVariables": "",
+      "installationMethod": "native-windows",
+      "installationMethodsByHost": {},
+      "reasoningSummary": "detailed",
+      "wslDistroOverride": "",
+      "wslDistroOverridesByHost": {}
+    },
+    "claude": {
+      "enabled": false,
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "loadUserSettings": true,
+      "enableChrome": false,
+      "enableBangBash": false,
+      "customModels": "",
+      "lastModel": "haiku",
+      "environmentVariables": "",
+      "environmentHash": "",
+      "respectProjectSettings": true,
+      "discoveredModels": [],
+      "discoveredCommands": [],
+      "discoveredCommandsFingerprint": "",
+      "discoveredModelsFingerprint": ""
+    },
+    "opencode": {
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "enabled": false,
+      "environmentHash": "",
+      "environmentVariables": "OPENCODE_ENABLE_EXA=1",
+      "modelAliases": {},
+      "preferredThinkingByModel": {},
+      "selectedMode": "",
+      "thinkingOptionsByModel": {},
+      "visibleModels": []
+    },
+    "grok": {
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "enabled": false,
+      "environmentHash": "",
+      "environmentVariables": "",
+      "modelAliases": {},
+      "preferredThinkingByModel": {},
+      "selectedMode": "",
+      "thinkingOptionsByModel": {},
+      "visibleModels": []
+    },
+    "mimocode": {
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "enabled": false,
+      "environmentHash": "",
+      "environmentVariables": "MIMOCODE_ENABLE_EXA=1",
+      "modelAliases": {},
+      "preferredThinkingByModel": {},
+      "selectedMode": "",
+      "thinkingOptionsByModel": {},
+      "visibleModels": []
+    },
+    "kimicode": {
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "enabled": false,
+      "environmentHash": "",
+      "environmentVariables": "KIMICODE_ENABLE_EXA=1",
+      "modelAliases": {},
+      "preferredThinkingByModel": {},
+      "selectedMode": "",
+      "thinkingOptionsByModel": {},
+      "visibleModels": []
+    },
+    "antigravity": {
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "customModels": "",
+      "discoveredModels": [],
+      "enabled": false,
+      "environmentHash": "",
+      "environmentVariables": "",
+      "modelAliases": {},
+      "visibleModels": []
+    },
+    "gemini": {
+      "discoveredModelsFingerprint": "",
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "enabled": false,
+      "environmentHash": "",
+      "environmentVariables": "",
+      "modelAliases": {},
+      "selectedMode": "",
+      "visibleModels": []
+    },
+    "qwen": {
+      "discoveredModelsFingerprint": "",
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "effortLevel": "high",
+      "enabled": false,
+      "environmentHash": "",
+      "environmentVariables": "",
+      "modelAliases": {},
+      "selectedMode": "",
+      "visibleModels": []
+    },
+    "devin": {
+      "discoveredModelsFingerprint": "",
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "enabled": false,
+      "environmentHash": "",
+      "environmentVariables": "",
+      "modelAliases": {},
+      "selectedMode": "",
+      "visibleModels": []
+    },
+    "reasonix": {
+      "discoveredModelsFingerprint": "",
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "enabled": false,
+      "imageAttachmentsAsFiles": false,
+      "environmentHash": "",
+      "environmentVariables": "",
+      "modelAliases": {},
+      "effortLevel": "auto",
+      "selectedMode": "",
+      "visibleModels": []
+    },
+    "commandcode": {
+      "enabled": false,
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "environmentVariables": "",
+      "visibleModels": [],
+      "modelAliases": {},
+      "imageAttachmentsAsFiles": false,
+      "reasoningEffortsByModel": {},
+      "discoveredModels": []
+    },
+    "pi": {
+      "enabled": false,
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "environmentVariables": "",
+      "visibleModels": [],
+      "modelAliases": {}
+    }
+  },
+  "settingsProvider": "codex",
+  "savedProviderModel": {
+    "codex": "gpt-5.5"
+  },
+  "savedProviderEffort": {
+    "codex": "high"
+  },
+  "savedProviderServiceTier": {
+    "codex": "default"
+  },
+  "savedProviderThinkingBudget": {},
+  "savedProviderPermissionMode": {
+    "codex": "normal"
+  },
+  "lastCustomModel": "",
+  "lastSeenChangelogVersion": "",
+  "maxTabs": 5,
+  "tabBarPosition": "header",
+  "showPanelLabels": true,
+  "enableAutoScroll": true,
+  "deferMathRenderingDuringStreaming": true,
+  "chatViewPlacement": "right-sidebar",
+  "hiddenProviderCommands": {}
+}

@@ -1,0 +1,12 @@
+# Obsidian Vault Git Ignore
+# Exclude ephemeral cache, sessions, and workspaces while keeping settings and notes
+
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.trash/
+.DS_Store
+Thumbs.db
+
+# Grimoire session cache
+.grimoire/cache/
+.grimoire/sessions/
